@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gotehl.github.io/Asg/sitemap.Asg.gz
